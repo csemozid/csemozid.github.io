@@ -1,3 +1,3 @@
 ## Welcome to My Page
 
-Updating...
+<font color="Blue"> Updating... <font>
